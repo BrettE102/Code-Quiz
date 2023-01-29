@@ -17,6 +17,12 @@ var questions = [
         choices: ["4", "5", "6", "7"],
         answer: "7"
     },
+    {
+        questionText:
+            "what is an if/else statement enclosed with?",
+        choices: ["curly bracket", "quotes", "parentheses", "straight bracket"],
+        answer: "parentheses"
+    },
 ]
 
 var index = 0

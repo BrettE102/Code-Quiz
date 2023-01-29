@@ -3,7 +3,7 @@
 ## Description
 
 - The motivation behind creating this webpage was to create a code quiz to complete in your browser. Theres a series
-of 3 questions to go through, if the wrong answer is selected then time will be taken away from the timer. 
+of 4 questions to go through, if the wrong answer is selected then time will be taken away from the timer. 
 
 ## Table of Contents
 
