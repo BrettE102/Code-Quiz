@@ -1,7 +1,7 @@
 root {
     --background: #fdf8f5;
-    --text: #4f4846;
-    --high: #1c6261;
+    --text: #453d47;
+    --high: #a49700;
     --font: fantasy;
   }
   
@@ -43,7 +43,7 @@ root {
   }
   
   button {
-    background: radial-gradient(circle, rgb(7, 180, 183) 0%, rgba(254, 254, 254, 0.954) 100%);
+    background: radial-gradient(circle, #850285 0%, #fefefef3 100%);
     border-radius: 10px;
     color: var(--gray);
     cursor: pointer;
@@ -132,7 +132,7 @@ root {
   }
   
   button {
-    background: radial-gradient(circle, rgb(7, 180, 183) 0%, rgba(254, 254, 254, 0.954) 100%);
+    background: radial-gradient(circle, #850285 0%, #fefefef3 100%);
     border-radius: 10px;
     color: var(--gray);
     cursor: pointer;
@@ -144,6 +144,7 @@ root {
     justify-content: space-around;
   
   }
+  /* #850285  rgb(133, 2, 133) */
   
   button:hover {
     color: aqua;
